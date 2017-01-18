@@ -386,7 +386,7 @@ bottom: 30px;
     border-color: black;
     border-style: double;
         margin-top: 30px;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
 }
  .black {
   background-color: black;
@@ -448,7 +448,7 @@ font-size: 18px;
 .entry-title a {
   font-size: 24px;
 }
-p, ul, .breadcrumb, a, .work .description, .field-name-field-slider-body {
+ ul, .breadcrumb, a, .work .description, .field-name-field-slider-body {
   font-size: 18px;
 }
 .year-regulator {
@@ -457,3 +457,26 @@ p, ul, .breadcrumb, a, .work .description, .field-name-field-slider-body {
 h3{
   font-size: 23px!important;
 } 
+.header .logo img {
+  max-width: 100px;
+}
+.language .btn, .language a {
+  font-size: 15px;
+}
+.btn-group.btn-select .dropdown-toggle, .btn-group.btn-select .dropdown-menu > li > a {
+  font-size: 15px;
+}
+.gold_title {
+  color: #c79c60;
+}
+ .black_box {
+  background-color: black;
+}
+ .black_box .our_history, .black_box .ultimate, .black_box .ultimate_text {
+  color: white;
+}
+#block-md-slider-videohome {
+  top: 0px;
+  position: absolute;
+  width: 100%;
+}
